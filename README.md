@@ -1,4 +1,4 @@
-# Apresentando: Marco Tulio
+# I present to you... Marco Tulio 💻
 
 Majoring in systems analysis and development
 
@@ -19,7 +19,7 @@ Majoring in systems analysis and development
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-### GitHub Status
+### GitHub Status:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuliotechh&hide=stars,issues&theme=nord&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tuliotechh&layout=compact&theme=nord)
