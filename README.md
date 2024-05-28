@@ -6,7 +6,7 @@ Majoring in systems analysis and development
 
 [![E-mail : marcotuliosante409@gmail.com](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](marcotuliosante409@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtuliou/)
-[![Twitter/X](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/odevtulio)
+[![Twitter/X](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/tuliotechh)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/marcotuliosante409)
 
 ### Certified in:
